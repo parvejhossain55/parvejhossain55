@@ -8,7 +8,7 @@ Building scalable web applications with AI-powered features, modern backend arch
 
 ## 🚀 About Me
 
-- 💻 3+ years of experience building scalable backend systems and full stack applications
+- 💻 2.5+ years of experience building scalable backend systems and full stack applications
 - 🏗️ Strong focus on API design, system architecture, and real-time systems (WebSocket, message queues)
 - 🤖 Currently deepening skills in AI Engineering — building AI agents and integrating LLM APIs into products
 - ⚡ Passionate about System Design, Cloud, and Developer Experience
