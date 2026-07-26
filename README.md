@@ -63,15 +63,6 @@ Building scalable web applications with AI-powered features, modern backend arch
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=parvejhossain55&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvejhossain55&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
