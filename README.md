@@ -60,7 +60,7 @@ I build scalable backend systems and full stack web applications, with a growing
 ## 📌 Featured Projects
 <!-- Add/replace with your actual project names, short one-line descriptions, and links -->
 - **Byte Social** — Telegram Mini App (Twitter-style social platform for crypto communities) with post/like/comment, wallet connect, and token-holding verification — 2K+ daily active users
-- **Packers** — Dropshipping-based ecommerce platform; built backend APIs and core platform logic
+- **Droppers** — Dropshipping-based ecommerce platform; built backend APIs and core platform logic
 - **Halt Stock** — Real-time system that automatically detects halted stocks and executes trades based on that
 
 ---
