@@ -1,8 +1,8 @@
 # Hi there, I'm Parvej Hossain 👋
 
-### Backend-Focused Full Stack Engineer | AI-Driven Development
+### Backend-Focused Full Stack Engineer
 
-Building scalable web applications, AI-powered solutions, and modern backend systems.
+Building scalable web applications with AI-powered features, modern backend architecture, and cloud-native technologies.
 
 ---
 
