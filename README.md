@@ -44,7 +44,7 @@ I build scalable backend systems and full stack web applications, with a growing
 </p>
 
 ### AI / LLM
-<p> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/> </p>
+<p> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_Databases-2E8B57?style=for-the-badge"/> </p>
 
 ---
 
