@@ -67,10 +67,7 @@ I build scalable backend systems and full stack web applications, with a growing
 
 ## 📚 Currently Learning
 
-- AI Engineering & AI Agents
-- MCP (Model Context Protocol)
-- Kubernetes
-- Distributed Systems
+- AI Engineering
 
 ---
 
