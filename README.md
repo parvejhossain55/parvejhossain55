@@ -1,65 +1,24 @@
 # Hi there, I'm Parvej Hossain 👋
 
-### Backend-Focused Full Stack Engineer
+### Backend Engineer |  AI-Driven Full Stack Developer
 
-Building scalable web applications with AI-powered features, modern backend architecture, and cloud-native technologies.
+
+Building scalable backend systems, modern web applications, and AI-powered solutions.
 
 ---
-
 ## 🚀 About Me
 
-- 💻 2.5+ years of experience building scalable backend systems and full stack applications
-- 🏗️ Strong focus on API design, system architecture, and real-time systems (WebSocket, message queues)
-- 🤖 Currently deepening skills in AI Engineering — building AI agents and integrating LLM APIs into products
-- ⚡ Passionate about System Design, Cloud, and Developer Experience
+- 💻 2.5+ years building backend and full stack applications
+- ⚙️ Focused on APIs, system architecture, and real-time applications
+- 🤖 Exploring AI Engineering, LLMs, and AI Agents
 - 📍 Dhaka, Bangladesh
-
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,nestjs,react,nextjs,mongodb,postgres,redis,docker,aws" />
 </p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,fastapi,rabbitmq" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
-</p>
-
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx" />
-</p>
-
-### AI / LLM
-<p> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_Databases-2E8B57?style=for-the-badge"/> </p>
-
----
-
-## 💼 What I Build
-
-- Scalable Backend APIs & Microservices
-- Full Stack SaaS Products
-- Real-time Applications (WebSocket, message queues)
-- AI-Powered Automation Tools & Agents
-
----
-
-## 📚 Currently Learning
-
-- AI Engineering
 
 ---
 
