@@ -1,14 +1,12 @@
 # Hi there, I'm Parvej Hossain 👋
 
-### Full Stack Engineer | AI Engineering
-
-Building scalable web applications with a strong focus on backend architecture and AI-powered solutions.
+### Backend Focused Full-Stack Developer
 
 ---
 ## 🚀 About Me
 
 - 💻 2.5+ years building backend and full stack applications
-- ⚙️ Focused on APIs, system architecture, and real-time applications
+- ⚙️ Focused on secure APIs, scalable architecture, and AI powdered application
 - 🤖 Exploring AI Engineering, LLMs, and AI Agents
 - 📍 Dhaka, Bangladesh
 ---
