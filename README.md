@@ -5,10 +5,11 @@
 ---
 ## 🚀 About Me
 
-- 💻 2.5+ years building backend and full stack applications
+- 💻 Backend and full stack development
 - ⚙️ Focused on designing secure APIs, scalable architecture, and AI-powered solutions
 - 🤖 Exploring AI Engineering, LLMs, and AI Agents
 - 📍 Dhaka, Bangladesh
+
 ---
 
 ## 🛠 Tech Stack
